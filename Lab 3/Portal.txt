@@ -1,0 +1,15 @@
+
+
+Repositorio: https://github.com/jorgealmeidamontiel/school-management-api
+
+
+Variables del App Service:
+
+SPRING_PROFILES_ACTIVE
+DB_USERNAME
+DB_PASSWORD
+DB_NAME
+DB_HOST
+DB_PORT
+
+@Microsoft.KeyVault(SecretUri=)
